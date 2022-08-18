@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Falah - aka Falah 👋 
+# Hi there, I'm Muhammad Falah - aka Falah <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
 ## I'm a Collage Student, Programmer, Developer, and Data Scientist!!
 
