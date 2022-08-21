@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for knowledge that can help me add insight
-- 🥅 2022 Goals: Learn more about data science, competitive programming
+- 🥅 2022 Goals: Learn more about data science & competitive programming
 - ⚡ Fun fact: I love to draw and typing something
 - 😻 Check out the NFT collection I created: [BordNFT](https://opensea.io/collection/dinomoet)
 
